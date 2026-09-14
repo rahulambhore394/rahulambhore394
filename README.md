@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,23&height=180&section=header&text=Rahul%20Ambhore&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer&descFontSize=18&descAlignY=60" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Rahul Ambhore - Software Engineer" />
+
+  <br/><br/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Backend+%26+Mobile;Kotlin+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Android;Scalable+Microservices+%E2%80%A2+Enterprise+Architecture;AI%2FML+%E2%80%A2+Agentic+AI+%26+Prompt+Engineering)](https://git.io/typing-svg)
 
@@ -98,21 +100,17 @@ object RahulAmbhore {
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rahulambhore394&theme=onedark&no-frame=true&margin-w=4" alt="trophy" />
+      <img src="https://profile-trophy.vercel.app/?username=rahulambhore394&theme=onedark&no-frame=true&margin-w=4" alt="trophy" />
     </a>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulambhore394&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulambhore394&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulambhore394&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulambhore394&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   </p>
 
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=rahulambhore394&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulambhore394&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="97%" />
   </p>
 
 </div>
@@ -141,6 +139,6 @@ object RahulAmbhore {
     </a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,23&height=100&section=footer" width="100%" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Divider" />
 
 </div>
