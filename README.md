@@ -2,7 +2,7 @@
 
   # Hi there, I'm Rahul Ambhore 👋
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Backend+Developer;App+Development+Lead+%40+GDG+on+Campus;Android+Developer+%7C+Kotlin+%26+Java+%7C+Spring+Boot;Mobile+AI+%7C+Agentic+AI+%26+Distributed+Systems)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Backend+Developer;App+Development+Lead+%40+GDG+on+Campus;Android+Developer+%7C+Kotlin+%26+Java+%7C+Spring+Boot;AI%2FML+%7C+Agentic+AI+%26+Backend+Systems)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rahul-ambhore-5102b5273/" target="_blank">
@@ -13,9 +13,6 @@
     </a>
     <a href="https://github.com/rahulambhore394">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://kaggle.com/rahulambhore394" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
   </p>
 
@@ -32,92 +29,104 @@
 ```kotlin
 data class SoftwareEngineer(
     val name: String = "Rahul Ambhore",
-    val role: String = "Backend Developer & Android Engineer",
-    val leadership: String = "App Development Lead @ GDG on Campus (SGGSIE&T)",
+    val role: String = "Software Engineer & Backend Developer",
+    val leadership: String = "App Development Lead @ GDG on Campus, SGGSIE&T",
     val education: String = "B.Tech in Information Technology @ SGGSIE&T (2024-2027)",
-    val coreStack: List<String> = listOf("Kotlin", "Java", "Spring Boot", "PostgreSQL", "Supabase", "Docker"),
-    val passions: List<String> = listOf("Distributed Systems", "IAM / RBAC", "Mobile AI & LLMs", "Clean Architecture")
+    val primaryLanguages: List<String> = listOf("Kotlin", "Java", "Python", "C++", "SQL")
 )
 ```
 
-- 🏛️ **Leadership:** **App Development Lead** at **Google Developer Groups (GDG) on Campus**, SGGSIE&T Nanded — mentoring peer developers, leading mobile workshops, and fostering tech community growth.
-- ⚙️ **Backend & Enterprise Systems:** Hands-on experience developing scalable backend services using **Spring Boot**, **PostgreSQL**, and **Docker**. Specialized in identity architectures: **SAML / OIDC**, **Microsoft Entra ID**, and **Role-Based Access Control (RBAC)**.
-- 📱 **Full-Stack Android Engineering:** Experienced in building robust, production-grade native Android applications adhering to **MVVM**, **Clean Architecture**, and **Material Design**. Creator of apps actively published and used by clients.
-- 🤖 **AI / ML Integrations:** Actively exploring **LLMs**, **Agentic AI (LangChain)**, **RAG**, and on-device machine learning with **TensorFlow Lite** and **Google ML Kit**.
+- 🏛️ **Leadership:** **App Development Lead** at **Google Developer Groups (GDG) on Campus**, SGGSIE&T Nanded — leading technical sessions and mentoring developers.
+- ⚙️ **Backend & Architecture:** Experienced in developing scalable backend services with **Spring Boot**, **PostgreSQL**, **Supabase**, and **Firebase**, focusing on **IAM**, **RBAC**, and **Multi-tenant Architecture**.
+- 📱 **Mobile Engineering:** Building full-stack Android applications using **Kotlin**, **Java**, and **MVVM Architecture**.
+- 🤖 **AI/ML:** Working with **LLMs**, **Agentic AI (LangChain)**, **RAG**, **Prompt Engineering**, and **Vector Databases**.
 
 ---
 
 ### 💼 Experience
 
 - 🛡️ **Backend Developer Intern** — **CyberXDelta Pvt. Ltd.** *(Feb 2026 – May 2026)*
-  - Developed scalable backend services using **Spring Boot** for an enterprise IAM onboarding platform.
+  - Developed scalable backend services using **Spring Boot** for an IAM-integrated onboarding platform.
   - Designed secure REST APIs for **SAML & OIDC** management and integrated enterprise identity providers (**Microsoft Entra ID**).
-  - Built backend modules for **RBAC**, scope management, and application provisioning using **PostgreSQL** and **Postman**.
+  - Built backend modules for attribute mapping, **RBAC**, scope management, and application provisioning using **PostgreSQL**, **Postman**, and **Git**.
 
 - 📱 **Android Development Intern** — **Mountreach Solution Pvt. Ltd.** *(Sep 2023 – Dec 2023)*
-  - Developed production-ready Android apps for business clients using **Java**, **XML**, and **Firebase Realtime Database**.
-  - Implemented responsive Material Design UI/UX and resolved critical performance bottlenecks, improving app stability by **25%**.
+  - Developed production-ready Android applications for business clients using **Java**, **XML**, and **Firebase Realtime Database**.
+  - Implemented responsive UI/UX per Material Design guidelines; improved app stability by **25%** through rigorous testing and debugging.
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Projects
 
 | Project | Stack | Highlights |
 | :--- | :--- | :--- |
-| 💼 [**Manage Plus**](https://github.com/rahulambhore394) | Kotlin, Supabase, PostgreSQL, Edge Functions, Retrofit | **Live on Indus Appstore & actively used by clients.** Multi-tenant workforce & wage management system featuring dual role support (Owner/Supervisor), Excel import, automated payroll (CSV/PDF), and Row-Level Security (RLS). |
-| 🐍 [**SafeBite**](https://github.com/rahulambhore394/Safe-Bite) | Kotlin, TFLite, Google Maps SDK, TomTom API, Gemini | Emergency medical response app with on-device AI species identification, one-touch SOS location dispatch via SMS/WhatsApp, and real-time hospital route tracing. |
-| 📄 [**DocuNova**](https://github.com/rahulambhore394/Docunova---Smart-Document-Scanner) | Kotlin, Google ML Kit, Supabase, Android Studio | Intelligent AI document scanner with NLP and OCR-based text extraction for 10+ languages, achieving **95%+ accuracy** across 50+ documents. |
-| ⚙️ [**Distributed Job Scheduler**](https://github.com/rahulambhore394/Distributed-Job-Scheduler) | Java, Concurrency, Distributed Systems | High-throughput distributed task scheduling framework engineered for fault-tolerant background execution and worker node coordination. |
+| 💼 [**Manage Plus**](https://github.com/rahulambhore394) | Kotlin, Supabase, PostgreSQL, Edge Functions, Retrofit | **Live on Indus Appstore & actively used by clients.** Multi-tenant workforce management system with dual role support (Owner/Supervisor), Excel import, automated payroll reports (CSV/PDF), and Row Level Security (RLS). |
+| 📄 [**DocuNova**](https://github.com/rahulambhore394/Docunova---Smart-Document-Scanner) | Kotlin, Google ML Kit, Supabase, Android Studio | Intelligent document scanner utilizing NLP and OCR-based text extraction for 10+ languages, achieving **95%+ accuracy** across 50+ documents. |
+| 🐍 [**SafeBite**](https://github.com/rahulambhore394/Safe-Bite) | Kotlin, Firebase, Google Maps API, Android Studio | Emergency medical response app with snake species identification, symptom assessment, and real-time Google Maps integration to locate nearest hospitals with automatic contact notification. |
 
 ---
 
 ### 🛠️ Technical Skills
 
-<div align="center">
+*(Strictly curated from Resume)*
 
-#### Languages & CS Fundamentals
+#### 💻 Languages & CS Fundamentals
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+</p>
+<p>
+  <code>Data Structures & Algorithms</code> • <code>Object-Oriented Programming (OOP)</code> • <code>Operating Systems</code> • <code>SDLC</code>
 </p>
 
-#### Backend & Architecture
+#### ⚙️ Backend & Architecture
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+<p>
+  <code>RESTful Microservices</code> • <code>IAM</code> • <code>RBAC</code> • <code>Multi-tenant Architecture</code>
 </p>
 
-#### Mobile Development
+#### 📱 Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
-  <img src="https://img.shields.io/badge/MVVM_Architecture-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
   <img src="https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
 </p>
-
-#### AI / Machine Learning & Tools
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite" />
-  <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="ML Kit" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <code>MVVM Architecture</code>
 </p>
 
-</div>
+#### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/LangChain_(Agentic_AI)-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+<p>
+  <code>LLM</code> • <code>Agentic AI</code> • <code>RAG</code> • <code>Prompt Engineering</code> • <code>Vector Databases</code>
+</p>
+
+#### 🔧 Tools & Practices
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+</p>
+<p>
+  <code>Agile / Scrum</code> • <code>CI/CD</code>
+</p>
 
 ---
 
-### 📊 GitHub Activity & Achievements
+### 📊 GitHub Activity & Streaks
 
 <div align="center">
 
@@ -153,8 +162,6 @@ data class SoftwareEngineer(
 
 <div align="center">
 
-  **Open for Software Engineering, Backend, and Android Developer opportunities!**
-
   <p>
     <a href="mailto:rahulambhore394@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-rahulambhore394@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -170,6 +177,6 @@ data class SoftwareEngineer(
   </p>
 
   📍 *Chh. Sambhaji Nagar, Maharashtra, India 431136*  
-  ⭐ *Feel free to explore my repositories and star projects you find interesting!*
+  📞 *+91-7385937358*
 
 </div>
