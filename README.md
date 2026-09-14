@@ -4,28 +4,32 @@
 
   <br/><br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Backend+%26+Mobile;Kotlin+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Android;Scalable+Microservices+%E2%80%A2+Enterprise+Architecture;AI%2FML+%E2%80%A2+Agentic+AI+%26+Prompt+Engineering)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Software+Engineer+%7C+Backend+%26+Mobile+Architecture;%F0%9F%9A%80+Building+High-Throughput+Microservices+in+Spring+Boot;%F0%9F%93%B1+Crafting+Fluid+Android+Apps+with+Kotlin+%26+MVVM;%F0%9F%A4%96+Architecting+Intelligent+Systems+with+Agentic+AI+%26+RAG;%F0%9F%92%A1+Turning+Complex+Problems+into+Scalable+Code)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://me.rahulambhore.workers.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-me.rahulambhore.workers.dev-8B5CF6?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/rahul-ambhore-5102b5273/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Ambhore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/rahulambhore394" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-rahulambhore394-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
     <a href="mailto:rahulambhore394@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-rahulambhore394-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rahulambhore394&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=rahulambhore394&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square&labelColor=0F172A" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=flat-square&labelColor=0F172A" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/LOCATION-INDIA-818CF8?style=flat-square&labelColor=0F172A" alt="Location" />
   </p>
 
 </div>
@@ -35,17 +39,31 @@
 ### 💻 Developer Console
 
 ```kotlin
-object RahulAmbhore {
-    val role: String = "Software Engineer"
-    val portfolio: String = "https://me.rahulambhore.workers.dev/"
-    val coreCompetencies: List<String> = listOf(
-        "Backend & Microservices",
-        "Android Mobile Engineering",
-        "Enterprise Architecture & IAM",
-        "Agentic AI & LLMs"
+/**
+ * ⚡ Rahul Ambhore — Software Engineer
+ * Portfolio : https://me.rahulambhore.workers.dev/
+ * Focus     : Backend Distributed Systems • Android Native • Agentic AI
+ */
+object RahulAmbhore : SoftwareEngineer() {
+    const val HANDLE    = "rahulambhore394"
+    const val PORTFOLIO = "https://me.rahulambhore.workers.dev/"
+    
+    val coreCompetencies: List<Domain> = listOf(
+        Domain.BACKEND_MICROSERVICES,
+        Domain.ANDROID_ARCHITECTURE,
+        Domain.ENTERPRISE_IAM_RBAC,
+        Domain.AGENTIC_AI_RAG
     )
-    val techStack: List<String> = listOf("Kotlin", "Java", "Spring Boot", "Android SDK", "PostgreSQL", "Docker")
-    val mindset: String = "Writing performant, clean, and scalable code."
+
+    val techStack: Set<String> = setOf(
+        "Kotlin", "Java", "Spring Boot", "Android SDK",
+        "PostgreSQL", "Docker", "Supabase", "LangChain"
+    )
+
+    fun status(): EngineState = EngineState(
+        openForRoles = true,
+        mission      = "Architecting resilient microservices and high-performance Android applications."
+    )
 }
 ```
 
@@ -146,7 +164,7 @@ object RahulAmbhore {
 
   <p align="center">
     <a href="https://me.rahulambhore.workers.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-me.rahulambhore.workers.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-me.rahulambhore.workers.dev-8B5CF6?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/rahul-ambhore-5102b5273/" target="_blank">
@@ -158,7 +176,7 @@ object RahulAmbhore {
     </a>
     &nbsp;&nbsp;
     <a href="mailto:rahulambhore394@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-rahulambhore394@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-rahulambhore394-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
