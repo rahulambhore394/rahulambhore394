@@ -146,12 +146,16 @@ object RahulAmbhore : SoftwareEngineer() {
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulambhore394&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulambhore394&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulambhore394&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="Rahul's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulambhore394&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" width="48%" />
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=rahulambhore394&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+    <img src="https://streak-stats.demolab.com/?user=rahulambhore394&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&v=2" alt="GitHub Streak" width="97%" />
+  </p>
+
+  <p align="center">
+    <img src="https://ghchart.rshah.org/38bdf8/rahulambhore394" alt="Rahul's Contribution Calendar" width="97%" />
   </p>
 
 </div>
